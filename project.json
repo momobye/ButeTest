@@ -1,0 +1,10 @@
+{
+    "name": "ButeTest",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "ButeTest.xml",
+    "author": "momobye",
+    "minimum_firmware_version": 42
+}

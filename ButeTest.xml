@@ -45,5 +45,5 @@
       </block>
     </statement>
   </block>
-  <block type="movement_stop" id="113" x="110" y="331"></block>
+  <block type="movement_stop" id="113" disabled="true" x="110" y="331"></block>
 </xml>
